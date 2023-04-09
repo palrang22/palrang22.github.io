@@ -22,6 +22,7 @@ user:
   pic: /assets/img/myavatar.png
   picAlt: "catbook"
   job: 개발공부중인 취준생
+  aboutme: true # 1998.03.17
 
 exclude:
   - README.md
