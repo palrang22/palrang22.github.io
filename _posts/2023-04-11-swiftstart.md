@@ -1,6 +1,6 @@
 ---
-title: swift 공부 시작
-categories: [swift]
+title: ios 앱 개발 공부 시작
+categories: [ios]
 comments: true
 ---
 
