@@ -1,6 +1,6 @@
 ---
 title: 포스팅 방법 개발자노트
-categories: [writing]
+categories: [끼적거림]
 comments: true
 ---
 샘플 포스트 입니다.<br>
