@@ -22,7 +22,6 @@ user:
   pic: /assets/img/catavatar.png
   picAlt: "catbook"
   job: 개발공부하는 취준생
-  aboutme: true # 1998.03.17
 
 exclude:
   - README.md
