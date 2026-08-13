@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Palrang22 # the main title
 
-tagline: 팔랑이의 클라우드 공부방 # it will display as the subtitle
+tagline: 클라우드 공부방 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   네트워크 인프라 클라우드 GCP 등등을 공부합니다
@@ -99,7 +99,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/palrang22.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
