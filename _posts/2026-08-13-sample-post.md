@@ -35,7 +35,7 @@ def hello():
 
 <!-- 이미지는 `assets/img/` 폴더에 넣고 아래처럼 불러옵니다. -->
 
-![이미지 설명](/assets/img/example.png)
+<!-- ![이미지 설명](/assets/img/example.png) -->
 
 ## 표 예시
 
