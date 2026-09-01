@@ -26,10 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://palrang22.github.io"
 
 github:
-  username: palrang22 # change to your GitHub username
-
-twitter:
-  username: twitter_username # change to your Twitter username
+  username: palrang22
 
 social:
   # Change to your full name.
@@ -39,11 +36,8 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/palrang22 # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/palrang22
+    - https://www.linkedin.com/in/%EC%8A%B9%ED%9D%AC-%EA%B9%80-5528a2244/
 
 # Site Verification Settings
 webmaster_verifications:
