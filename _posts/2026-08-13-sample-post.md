@@ -7,6 +7,7 @@ pin: false
 math: false
 mermaid: false
 comments: true
+published: false
 # image:
 #   path: 
 #   alt: 썸네일 이미지 설명
