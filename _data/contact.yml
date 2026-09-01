@@ -3,8 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: velog
+  icon: "velog-icon" # custom icon, styled in assets/css/jekyll-theme-chirpy.scss
+  url: "https://velog.io/@palrang22/"
 
 - type: email
   icon: "fas fa-envelope"
